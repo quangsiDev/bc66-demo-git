@@ -37,5 +37,13 @@ lấy code mới nhất từ github về máy  ~ pull
 
 khởi tạo dự án : git init ( tạo repo local ~  mỗi dự án làm 1 lần)
 
-Đẩy code từ local lên remote : 3 bước
+
+* liên kết local và remote : git remote add origin url
+
+
+* đẩy code từ local lên remote : 3 bước
 git add -A
+git commit -m  " nội dung  "
+git push -u origin master
+
+
