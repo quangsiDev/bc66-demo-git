@@ -44,6 +44,6 @@ khởi tạo dự án : git init ( tạo repo local ~  mỗi dự án làm 1 l�
 * đẩy code từ local lên remote : 3 bước
 git add -A
 git commit -m  " nội dung  "
-git push -u origin master
+git push -u origin master (lần đầu)/ git push ( lần 2 trở đi )
 
 
