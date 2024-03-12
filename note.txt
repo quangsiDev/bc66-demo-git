@@ -47,3 +47,7 @@ git commit -m  " nội dung  "
 git push -u origin master (lần đầu)/ git push ( lần 2 trở đi )
 
 
+* Tạo nhánh ( khi code chức năng mới / fix bug): git checkout -b name
+
+
+
